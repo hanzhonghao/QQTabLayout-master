@@ -1,4 +1,4 @@
-package com.zhonghao.qqtablayout;
+package com.zhonghao.myapplication;
 
 import android.content.Context;
 import android.content.res.TypedArray;
