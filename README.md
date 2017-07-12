@@ -3,3 +3,5 @@
 
 
 [![](https://jitpack.io/v/hanzhonghao/QQTabLayout-master.svg)](https://jitpack.io/#hanzhonghao/QQTabLayout-master)
+
+![image](https://github.com/hanzhonghao/QQTabLayout-master/raw/master/screenshot/qqlayout.gif)
